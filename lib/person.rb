@@ -5,5 +5,5 @@ class Person
   end
 end
 
-talk = Person
+jim = Person
 puts hello world
