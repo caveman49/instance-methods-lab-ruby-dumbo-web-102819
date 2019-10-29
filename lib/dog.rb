@@ -7,10 +7,10 @@ class Dog
 fido = Dog.new
 fido.bark
 
+
 def sit
     puts "The Dog is sitting"
   end
-
 end
 
 jim = Person.new
