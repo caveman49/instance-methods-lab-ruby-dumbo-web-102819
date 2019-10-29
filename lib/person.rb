@@ -6,4 +6,4 @@ class Person
 end
 
 jim = Person.new
-puts hello world
+jim.sit
