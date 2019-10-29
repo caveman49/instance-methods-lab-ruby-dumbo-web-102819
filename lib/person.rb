@@ -1,5 +1,5 @@
 class Person
-  
+  def sit
 end
 
 talk = Person
