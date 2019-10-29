@@ -5,5 +5,5 @@ class Person
   end
 end
 
-jim = Person
+jim = Person.new
 puts hello world
