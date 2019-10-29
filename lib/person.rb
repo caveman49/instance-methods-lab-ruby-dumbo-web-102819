@@ -5,5 +5,5 @@ class Person
   end
 end
 
-jim = Person.new
-jim.sit
+fido = Person.new
+fido.sit
