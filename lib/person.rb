@@ -1,7 +1,8 @@
 class Person
   
   def sit
-end
+    end
+  end
 
 talk = Person
 puts hello world
