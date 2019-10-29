@@ -4,7 +4,7 @@ class Dog
     puts "Woof!"
   end
   
-  fido = Dog
+  fido = Dog.new
 
 def sit
     puts "The Dog is sitting"
